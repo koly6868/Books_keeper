@@ -1,0 +1,28 @@
+.list{
+    max-width: 200px;
+    width: 100%;
+    word-wrap: break-word;
+    background-color: rgb(80, 80, 80);
+
+}
+
+.item{
+    margin: 20px;
+    margin-left: 30px;
+    padding: 3px;
+    font-size: 18px;
+    color: white;
+    
+    border-bottom: 2px solid rgb(150,150,150);
+    border-radius: 10px;
+    
+}
+
+.item p {
+    margin: 5px;
+    margin-left: 10px;
+}
+
+.item:hover{
+    border-color: white;
+}
